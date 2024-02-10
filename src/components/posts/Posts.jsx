@@ -10,7 +10,7 @@ const Posts = () => {
             name: "Pankhuri",
             userId: "1",
             profilePic: "https://images.pexels.com/photos/4353618/pexels-photo-4353618.jpeg?auto=compress&cs=tinysrgb&w=400",
-            desc: "Lorem ipsum dolor sit, /pexelamet consectetur adipisicing.",
+            desc: "Lranniiiiiiiiiii.",
             img:"https://images.pexels.com/photos/267403/pexels-photo-267403.jpeg?auto=compress&cs=tinysrgb&w=400",
         },
         {
